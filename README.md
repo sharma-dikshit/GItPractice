@@ -1,0 +1,2 @@
+# GItPractice
+Trying git commands
